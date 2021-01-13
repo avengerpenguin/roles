@@ -7,53 +7,53 @@ graph TD
 %%classDef default width:25%;
 
 
-Muse(("EF as Muse<br>[[EF-5]]"))
+Muse(("[[EF-5|EF as Muse]]"))
 
-Leader(("IF as Leader<br>[[IF-1]]"))
+Leader(("[[IF-1|IF as Leader]]"))
 
-Fool(("IS as Fool<br>[[IS-6]]"))
+Fool(("[[IS-6|IS as Fool]]"))
 
-Priest(("SF as Priest<br>[[SF-f]]"))
+Priest(("[[SF-f|SF as Priest]]"))
 
-Attitude(("IP as Attitude<br>[[IP-f]]"))
+Attitude(("[[IP-f|IP as Attitude]]"))
 
-CoreInt(("SP as CoreInt<br>[[SP-f]]"))
+CoreInt(("[[SP-f|SP as CoreInt]]"))
 
-SuppInt(("FP as SuppInt<br>[[FP-f]]"))
+SuppInt(("[[FP-f|FP as SuppInt]]"))
 
-Grip(("ET as Grip<br>[[ET-4-s]]"))
+Grip(("[[ET-4-s|ET as Grip]]"))
 
-Vuln(("EN as Vuln<br>[[EN-7]]"))
+Vuln(("[[EN-7|EN as Vuln]]"))
 
-Crisis(("NT as Crisis<br>[[NT-s]]"))
+Crisis(("[[NT-s|NT as Crisis]]"))
 
-Desperation(("EJ as Desperation<br>[[EJ-s]]"))
+Desperation(("[[EJ-s|EJ as Desperation]]"))
 
-Stuck(("NJ as Stuck<br>[[NJ-s]]"))
+Stuck(("[[NJ-s|NJ as Stuck]]"))
 
-Trap(("TJ as Trap<br>[[TJ-s]]"))
+Trap(("[[TJ-s|TJ as Trap]]"))
 
-Rival(("ET as Rival<br>[[ET-4-m]]"))
+Rival(("[[ET-4-m|ET as Rival]]"))
 
-Adviser(("ES as Adviser<br>[[ES-2]]"))
+Adviser(("[[ES-2|ES as Adviser]]"))
 
-Villain(("IT as Villain<br>[[IT-8]]"))
+Villain(("[[IT-8|IT as Villain]]"))
 
-EgoCheck(("EP as EgoCheck<br>[[EP-m]]"))
+EgoCheck(("[[EP-m|EP as EgoCheck]]"))
 
-Zoom(("NP as Zoom<br>[[NP-m]]"))
+Zoom(("[[NP-m|NP as Zoom]]"))
 
-Understand(("NF as Understand<br>[[NF-m]]"))
+Understand(("[[NF-m|NF as Understand]]"))
 
-Apprentice(("IN as Apprentice<br>[[IN-3]]"))
+Apprentice(("[[IN-3|IN as Apprentice]]"))
 
-Stretch(("SJ as Stretch<br>[[SJ-g]]"))
+Stretch(("[[SJ-g|SJ as Stretch]]"))
 
-Discipline(("IJ as Discipline<br>[[IJ-g]]"))
+Discipline(("[[IJ-g|IJ as Discipline]]"))
 
-Mindset(("ST as Mindset<br>[[ST-g]]"))
+Mindset(("[[ST-g|ST as Mindset]]"))
 
-Discomfort(("TJ as Discomfort<br>[[TJ-g]]"))
+Discomfort(("[[TJ-g|TJ as Discomfort]]"))
 
 
 subgraph Government

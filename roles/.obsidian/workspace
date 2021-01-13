@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IF-7.md",
+            "file": "IN-5.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "todo"
+                "query": "todo",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
               }
             }
           }
@@ -64,7 +69,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IF-7.md"
+                "file": "IN-5.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -76,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "IF-7.md",
-    "entp-example.md",
-    "EN-5.md",
-    "ET-7.md",
-    "TP-s.md",
-    "ENTP.md",
+    "IN-5.md",
+    "NT-f.md",
+    "FJ-g.md",
+    "FJ-f.md",
+    "EP-f.md",
     "ES-8.md",
-    "ST-s.md",
-    "SF-s.md",
-    "NF-g.md"
+    "TP-f.md",
+    "IT-1.md",
+    "IT-2.md",
+    "NP-f.md"
   ]
 }

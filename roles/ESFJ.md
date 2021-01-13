@@ -7,53 +7,53 @@ graph TD
 %%classDef default width:25%;
 
 
-Muse(("IF as Muse<br>[[IF-5]]"))
+Muse(("[[IF-5|IF as Muse]]"))
 
-Leader(("EF as Leader<br>[[EF-1]]"))
+Leader(("[[EF-1|EF as Leader]]"))
 
-Fool(("ES as Fool<br>[[ES-6]]"))
+Fool(("[[ES-6|ES as Fool]]"))
 
-Priest(("SF as Priest<br>[[SF-f]]"))
+Priest(("[[SF-f|SF as Priest]]"))
 
-Attitude(("EJ as Attitude<br>[[EJ-f]]"))
+Attitude(("[[EJ-f|EJ as Attitude]]"))
 
-CoreInt(("SJ as CoreInt<br>[[SJ-f]]"))
+CoreInt(("[[SJ-f|SJ as CoreInt]]"))
 
-SuppInt(("Messenger<br>[[FJ-f]]"))
+SuppInt(("<img width=200 height=200 src='https://www.personality-database.com/profile_images/3040.png?=0'><br>[[FJ-f|Messenger]]"))
 
-Grip(("IT as Grip<br>[[IT-4-s]]"))
+Grip(("[[IT-4-s|IT as Grip]]"))
 
-Vuln(("IN as Vuln<br>[[IN-7]]"))
+Vuln(("[[IN-7|IN as Vuln]]"))
 
-Crisis(("NT as Crisis<br>[[NT-s]]"))
+Crisis(("[[NT-s|NT as Crisis]]"))
 
-Desperation(("IP as Desperation<br>[[IP-s]]"))
+Desperation(("[[IP-s|IP as Desperation]]"))
 
-Stuck(("NP as Stuck<br>[[NP-s]]"))
+Stuck(("[[NP-s|NP as Stuck]]"))
 
-Trap(("The Critic<br>[[TP-s]]"))
+Trap(("[[TP-s|The Critic]]"))
 
-Rival(("IT as Rival<br>[[IT-4-m]]"))
+Rival(("[[IT-4-m|IT as Rival]]"))
 
-Adviser(("IS as Adviser<br>[[IS-2]]"))
+Adviser(("[[IS-2|IS as Adviser]]"))
 
-Villain(("ET as Villain<br>[[ET-8]]"))
+Villain(("[[ET-8|ET as Villain]]"))
 
-EgoCheck(("IJ as EgoCheck<br>[[IJ-m]]"))
+EgoCheck(("[[IJ-m|IJ as EgoCheck]]"))
 
-Zoom(("NJ as Zoom<br>[[NJ-m]]"))
+Zoom(("[[NJ-m|NJ as Zoom]]"))
 
-Understand(("NF as Understand<br>[[NF-m]]"))
+Understand(("[[NF-m|NF as Understand]]"))
 
-Apprentice(("EN as Apprentice<br>[[EN-3]]"))
+Apprentice(("[[EN-3|EN as Apprentice]]"))
 
-Stretch(("SP as Stretch<br>[[SP-g]]"))
+Stretch(("[[SP-g|SP as Stretch]]"))
 
-Discipline(("EP as Discipline<br>[[EP-g]]"))
+Discipline(("[[EP-g|EP as Discipline]]"))
 
-Mindset(("ST as Mindset<br>[[ST-g]]"))
+Mindset(("[[ST-g|ST as Mindset]]"))
 
-Discomfort(("TP as Discomfort<br>[[TP-g]]"))
+Discomfort(("[[TP-g|TP as Discomfort]]"))
 
 
 subgraph Government

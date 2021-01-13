@@ -1,4 +1,5 @@
 Title: Hedonist
+Image: https://www.personality-database.com/profile_images/762.png?id=126604
 
 The Hedonist is the role that can only seem to enjoy life and be present when it involves dropping everything else.  While it is ok to "let loose" and enjoy physical and sensory pleasures, the fact is comes at the expense of better judgements makes it hard to avoid excess.
 

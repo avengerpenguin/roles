@@ -7,53 +7,53 @@ graph TD
 %%classDef default width:25%;
 
 
-Muse(("Epiphany<br>[[IN-5]]"))
+Muse(("[[IN-5|Epiphany]]"))
 
-Leader(("Seeker<br>[[EN-1]]"))
+Leader(("<img width=200 height=200 src='https://www.personality-database.com/profile_images/3024.png?id=0'><br>[[EN-1|Seeker]]"))
 
-Fool(("Disrupter<br>[[ET-6]]"))
+Fool(("[[ET-6|Disrupter]]"))
 
-Priest(("Innovator<br>[[NT-f]]"))
+Priest(("<img width=200 height=200 src='https://www.personality-database.com/profile_images/3065.png?id=98502'><br>[[NT-f|Rationalist]]"))
 
-Attitude(("Disruptor<br>[[EP-f]]"))
+Attitude(("<img width=200 height=200 src='https://www.personality-database.com/profile_images/3029.png?id=0'><br>[[EP-f|Free Spirit]]"))
 
-CoreInt(("Creative<br>[[NP-f]]"))
+CoreInt(("<img width=200 height=200 src='https://www.personality-database.com/profile_images/776.png?id=0'><br>[[NP-f|Creative]]"))
 
-SuppInt(("Analyst<br>[[TP-f]]"))
+SuppInt(("<img width=200 height=200 src='https://www.personality-database.com/profile_images/7552.png?=33781'><br>[[TP-f|Analyst]]"))
 
-Grip(("IS as Grip<br>[[IS-4-s]]"))
+Grip(("[[IS-4-s|IS as Grip]]"))
 
-Vuln(("Rebel<br>[[IF-7]]"))
+Vuln(("[[IF-7|Rebel]]"))
 
-Crisis(("The Attention-Seeker<br>[[SF-s]]"))
+Crisis(("[[SF-s|The Attention-Seeker]]"))
 
-Desperation(("Zealot<br>[[IJ-s]]"))
+Desperation(("[[IJ-s|Zealot]]"))
 
-Stuck(("SJ as Stuck<br>[[SJ-s]]"))
+Stuck(("[[SJ-s|SJ as Stuck]]"))
 
-Trap(("Ranter<br>[[FJ-s]]"))
+Trap(("[[FJ-s|Ranter]]"))
 
-Rival(("IS as Rival<br>[[IS-4-m]]"))
+Rival(("[[IS-4-m|IS as Rival]]"))
 
-Adviser(("Scientist<br>[[IT-2]]"))
+Adviser(("<img width=200 height=200 src='https://www.personality-database.com/profile_images/539.png?=0'><br>[[IT-2|Scientist]]"))
 
-Villain(("Hedonist<br>[[ES-8]]"))
+Villain(("<img width=200 height=200 src='https://www.personality-database.com/profile_images/762.png?id=126604'><br>[[ES-8|Hedonist]]"))
 
-EgoCheck(("Validator<br>[[IP-m]]"))
+EgoCheck(("[[IP-m|Validator]]"))
 
-Zoom(("SP as Zoom<br>[[SP-m]]"))
+Zoom(("[[SP-m|SP as Zoom]]"))
 
-Understand(("ST as Understand<br>[[ST-m]]"))
+Understand(("[[ST-m|ST as Understand]]"))
 
-Apprentice(("Conversationalist<br>[[EF-3]]"))
+Apprentice(("[[EF-3|Conversationalist]]"))
 
-Stretch(("NJ as Stretch<br>[[NJ-g]]"))
+Stretch(("[[NJ-g|NJ as Stretch]]"))
 
-Discipline(("Prototyper<br>[[EJ-g]]"))
+Discipline(("[[EJ-g|Prototyper]]"))
 
-Mindset(("The Dreamer<br>[[NF-g]]"))
+Mindset(("[[NF-g|The Dreamer]]"))
 
-Discomfort(("Orator<br>[[FJ-g]]"))
+Discomfort(("<img width=200 height=200 src='https://www.personality-database.com/profile_images/3023.png?id=0'><br>[[FJ-g|Orator]]"))
 
 
 subgraph Government

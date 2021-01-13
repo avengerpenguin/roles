@@ -23,6 +23,7 @@ def get_role(purpose, code: str, variant):
             "purpose": purpose,
             "name": role_info['title'][0],
             "code": f"{code}-{variant}",
+            "image": "image" in role_info and role_info["image"][0]
         }
 
 

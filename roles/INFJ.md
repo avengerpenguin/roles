@@ -7,53 +7,53 @@ graph TD
 %%classDef default width:25%;
 
 
-Muse(("Serendipity<br>[[EN-5]]"))
+Muse(("[[EN-5|Serendipity]]"))
 
-Leader(("Dreamscaper<br>[[IN-1]]"))
+Leader(("[[IN-1|Dreamscaper]]"))
 
-Fool(("Self-Critic<br>[[IF-6]]"))
+Fool(("[[IF-6|Self-Critic]]"))
 
-Priest(("Idealist<br>[[NF-f]]"))
+Priest(("[[NF-f|Idealist]]"))
 
-Attitude(("Maker<br>[[IJ-f]]"))
+Attitude(("[[IJ-f|Maker]]"))
 
-CoreInt(("Visionary<br>[[NJ-f]]"))
+CoreInt(("[[NJ-f|Visionary]]"))
 
-SuppInt(("Messenger<br>[[FJ-f]]"))
+SuppInt(("<img width=200 height=200 src='https://www.personality-database.com/profile_images/3040.png?=0'><br>[[FJ-f|Messenger]]"))
 
-Grip(("ES as Grip<br>[[ES-4-s]]"))
+Grip(("[[ES-4-s|ES as Grip]]"))
 
-Vuln(("The Dictator<br>[[ET-7]]"))
+Vuln(("[[ET-7|The Dictator]]"))
 
-Crisis(("Defeatist<br>[[ST-s]]"))
+Crisis(("[[ST-s|Defeatist]]"))
 
-Desperation(("EP as Desperation<br>[[EP-s]]"))
+Desperation(("[[EP-s|EP as Desperation]]"))
 
-Stuck(("SP as Stuck<br>[[SP-s]]"))
+Stuck(("[[SP-s|SP as Stuck]]"))
 
-Trap(("The Critic<br>[[TP-s]]"))
+Trap(("[[TP-s|The Critic]]"))
 
-Rival(("ES as Rival<br>[[ES-4-m]]"))
+Rival(("[[ES-4-m|ES as Rival]]"))
 
-Adviser(("Empath<br>[[EF-2]]"))
+Adviser(("[[EF-2|Empath]]"))
 
-Villain(("IS as Villain<br>[[IS-8]]"))
+Villain(("[[IS-8|IS as Villain]]"))
 
-EgoCheck(("Delegator<br>[[EJ-m]]"))
+EgoCheck(("[[EJ-m|Delegator]]"))
 
-Zoom(("SJ as Zoom<br>[[SJ-m]]"))
+Zoom(("[[SJ-m|SJ as Zoom]]"))
 
-Understand(("SF as Understand<br>[[SF-m]]"))
+Understand(("[[SF-m|SF as Understand]]"))
 
-Apprentice(("Reasoner<br>[[IT-3]]"))
+Apprentice(("[[IT-3|Reasoner]]"))
 
-Stretch(("NP as Stretch<br>[[NP-g]]"))
+Stretch(("[[NP-g|NP as Stretch]]"))
 
-Discipline(("IP as Discipline<br>[[IP-g]]"))
+Discipline(("[[IP-g|IP as Discipline]]"))
 
-Mindset(("NT as Mindset<br>[[NT-g]]"))
+Mindset(("[[NT-g|NT as Mindset]]"))
 
-Discomfort(("TP as Discomfort<br>[[TP-g]]"))
+Discomfort(("[[TP-g|TP as Discomfort]]"))
 
 
 subgraph Government

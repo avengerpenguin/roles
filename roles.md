@@ -7,7 +7,7 @@ graph TD
 %%classDef default width:25%;
 
 {% for role in roles %}
-{{ role.purpose }}(("{{ role.name }}<br>[[{{ role.code }}]]"))
+{{ role.purpose }}(("{% if role.image %}<img width=200 height=200 src='{{ role.image }}'><br>{% endif %}[[{{ role.code }}|{{ role.name }}]]"))
 {% endfor %}
 
 subgraph Government

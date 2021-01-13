@@ -7,6 +7,11 @@ body {
     svg {
       display: block;
       margin: 0 auto;
+      img {
+          display: inline;
+          float: none;
+          margin: 0 auto;
+      }
     }
   }
 }
