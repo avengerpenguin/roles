@@ -6,12 +6,12 @@
       {
         "id": "f355f0139537ec03",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IN-5.md",
-            "mode": "source"
+            "file": "EF-4-m.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -69,10 +69,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IN-5.md",
+                "file": "EF-4-m.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -85,16 +87,17 @@
     "width": 300,
     "collapsed": true
   },
+  "active": "f355f0139537ec03",
   "lastOpenFiles": [
-    "IN-5.md",
-    "NT-f.md",
-    "FJ-g.md",
-    "FJ-f.md",
-    "EP-f.md",
-    "ES-8.md",
-    "TP-f.md",
-    "IT-1.md",
-    "IT-2.md",
-    "NP-f.md"
+    "EN-2.md",
+    "EJ-s.md",
+    "EJ-g.md",
+    "ET-7.md",
+    "ES-7.md",
+    "IF-7.md",
+    "EN-7.md",
+    "EN-4.md",
+    "EN-3.md",
+    "Untitled.md"
   ]
 }
